@@ -19,15 +19,15 @@ class ShowcaseState extends State<Showcase> {
     "assets/images/game_console.png",
     "assets/images/vhs_tape.png"
   ];
-  final List _titles = [
+  final List<String> _titles = [
     "Rotary Telephone \n\n Today making a phone call is just few clicks away, but not back in the day!",
     "Typewriter \n\n With typewriters, if you made a mistake, you had to either white it out or start all over again!",
-    "CRT TV \n\n These produced color pattern at midnight - something today's Netflix obsessed kids probably can't even comprehend",
-    "Discman \n\n A perfect CD carrier back in the day. Played some music as well",
-    "Cassette \n\n Think of these as the CD. You had the feature to record your favorite song from radio",
-    "Floppy Disk \n\n Today its the symbol of save button on computers",
-    "Game Boy \n\n These 8 bit handheld game console were the best thing ever made",
-    "VHS Tape \n\n Every time you want to watch a movie, prepare yourself to rewind the tape when you are done viewing"
+    "CRT TV \n\n These produced color pattern at midnight - something today's Netflix obsessed kids probably can't even comprehend.",
+    "Discman \n\n A perfect CD carrier back in the day. Played some music as well.",
+    "Cassette \n\n Think of these as the CD. You had the feature to record your favorite song from radio on it.",
+    "Floppy Disk \n\n Today its the symbol of save button on computers. Scratch the metal part of it and you just lost your data.",
+    "Game Boy \n\n These 8 bit handheld game console were the best thing ever made.",
+    "VHS Tape \n\n Every time you want to watch a movie, prepare yourself to rewind the tape when you are done viewing."
   ];
 
   @override
@@ -70,7 +70,7 @@ class ShowcaseState extends State<Showcase> {
               Text(
                 _titles[_counter],
                 textAlign: TextAlign.center,
-                style: TextStyle(fontSize: 20, fontFamily: 'Baskerville'),
+                style: TextStyle(fontSize: 20),
               ),
             ],
           ),
