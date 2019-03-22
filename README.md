@@ -1,4 +1,4 @@
-# missed_it
+# Missed It
 
 A new Flutter application.
 
