@@ -40,8 +40,8 @@ class ShowcaseState extends State<Showcase> {
             end: Alignment.bottomLeft,
             stops: [0.1, 0.9],
             colors: [
-              Color(0xff36D1DC),
-              Color(0xff5B86E5),
+              Color(0xffffcc33),
+              Color(0xffffb347),
             ],
           ),
         ),
@@ -70,7 +70,7 @@ class ShowcaseState extends State<Showcase> {
               Text(
                 _titles[_counter],
                 textAlign: TextAlign.center,
-                style: TextStyle(fontSize: 20, color: Colors.white),
+                style: TextStyle(fontSize: 20, fontFamily: 'Baskerville'),
               ),
             ],
           ),
