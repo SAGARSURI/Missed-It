@@ -5,6 +5,10 @@ Have you ever paused yourself and thought for a while about the things which rea
 # Screenshots
 
 ![](https://user-images.githubusercontent.com/14856659/55736185-717dfe00-5a40-11e9-8545-149b4b14402f.png)
+![](https://user-images.githubusercontent.com/14856659/55736266-9c685200-5a40-11e9-8096-be47c326db55.png)
+![](https://user-images.githubusercontent.com/14856659/55736278-a5592380-5a40-11e9-8280-54378d4857fb.png)
+![](https://user-images.githubusercontent.com/14856659/55736289-aab66e00-5a40-11e9-9e9b-5dd50d39b267.png)
+
 
 
 # About the app
